@@ -2,6 +2,8 @@
 
 Progetto didattico del corso Ultimate React Course di Jonas Schmedtman.
 
+![Preview](https://github.com/LorenzoLoPresti/images/worldwise/image1.png)
+
 ## Stack utilizzato:
 
 - Vite
