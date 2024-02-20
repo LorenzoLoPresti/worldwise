@@ -1,8 +1,21 @@
-# React + Vite
+# Worldwise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Progetto didattico del corso Ultimate React Course di Jonas Schmedtman.
 
-Currently, two official plugins are available:
+## Stack utilizzato:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Vite
+- React
+- Javascript
+- React Router DOM
+- Leaflet
+- Json server
+
+### Descrizione
+
+L'applicazione è pensata come un diario di viaggio. L'utente può selezionare un qualsiasi luogo che ha visitato nel mondo e appuntare delle considerazioni attraverso un form.
+Saranno presenti i marker sulla mappa per ogni luogo selezionato, sarà possibile selezionare i luoghi visitati da una lista e cliccandovi la mappa si sposterà alle coordinate del luogo selezionato.
+
+### Argomenti approfonditi
+
+Context, Custom hooks, React-router-dom

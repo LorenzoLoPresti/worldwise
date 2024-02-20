@@ -13,30 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Catania",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2023-11-05T11:30:49.000Z",
-      "notes": "Bello schifo",
-      "position": {
-        "lat": "37.50076135285727",
-        "lng": "15.085205490373303"
-      },
-      "id": 73930386
-    },
-    {
-      "cityName": "Arzano",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2023-11-27T09:06:02.909Z",
-      "notes": "dbhdbde",
-      "position": {
-        "lat": "40.909677671971814",
-        "lng": "14.274053448721718"
-      },
-      "id": 73930387
-    },
-    {
       "cityName": "Paris",
       "country": "France",
       "emoji": "🇫🇷",
@@ -47,6 +23,18 @@
         "lng": "2.361147684152907"
       },
       "id": 73930388
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-20T11:49:12.375Z",
+      "notes": "Beautiful City",
+      "position": {
+        "lat": "40.38285838311828",
+        "lng": "-3.71646398245678"
+      },
+      "id": 73930389
     }
   ]
 }
