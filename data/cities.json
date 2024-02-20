@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Catania",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-11-05T11:30:49.000Z",
+      "notes": "Bello schifo",
+      "position": {
+        "lat": "37.50076135285727",
+        "lng": "15.085205490373303"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Arzano",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-11-27T09:06:02.909Z",
+      "notes": "dbhdbde",
+      "position": {
+        "lat": "40.909677671971814",
+        "lng": "14.274053448721718"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-03T12:42:38.653Z",
+      "notes": "Beautiful city",
+      "position": {
+        "lat": "48.854472618303",
+        "lng": "2.361147684152907"
+      },
+      "id": 73930388
+    }
+  ]
+}
