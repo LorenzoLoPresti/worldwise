@@ -23,3 +23,12 @@ Saranno presenti i marker sulla mappa per ogni luogo selezionato, sarà possibil
 ### Argomenti approfonditi
 
 Context, Custom hooks, React-router-dom
+
+### Start
+
+Per avviare l'applicazione:
+
+- Navigare alla cartella del progetto con il terminale
+- Avviare il server inserendo il comando `npm run server`
+- Navigare alla cartella del progetto con un altro terminale
+- Avviare l'applicazione inserendo il comando `npm run dev`
