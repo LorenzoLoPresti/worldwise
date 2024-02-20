@@ -29,6 +29,7 @@ Context, Custom hooks, React-router-dom
 Per avviare l'applicazione:
 
 - Navigare alla cartella del progetto con il terminale
+- Installare le dipendenze: `npm i`
 - Avviare il server inserendo il comando `npm run server`
 - Navigare alla cartella del progetto con un altro terminale
 - Avviare l'applicazione inserendo il comando `npm run dev`
