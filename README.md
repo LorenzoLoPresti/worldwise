@@ -2,7 +2,7 @@
 
 Progetto didattico del corso Ultimate React Course di Jonas Schmedtman.
 
-![Preview](https://github.com/LorenzoLoPresti/images/tree/worldwise/image1.png)
+![Preview](https://github.com/LorenzoLoPresti/images/tree/main/worldwise/image1.png)
 
 ## Stack utilizzato:
 
